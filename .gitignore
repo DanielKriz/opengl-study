@@ -1,0 +1,10 @@
+.cache/
+*.o
+*.idx
+build/
+compile_commands.json
+CMakeUserPresets.json
+Testing/
+imgui.ini
+
+sb7code

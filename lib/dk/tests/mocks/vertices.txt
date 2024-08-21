@@ -1,0 +1,7 @@
+# Vertices for cube
+1.0 -2.0 3.0 4.0
+
+-0.25 5.0 0 # last vertex
+
+
+# end of the file

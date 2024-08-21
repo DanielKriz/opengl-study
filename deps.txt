@@ -1,0 +1,1 @@
+libXdmcp-devel libxkbfile-devel libXres-devel libXScrnSaver-devel libXvMC-devel xcb-util-wm-devel xcb-util-image-devel xcb-util-keysyms-devel xcb-util-renderutil-devel libXxf86vm-devel libXv-devel xcb-util-devel libuuid-devel xcb-util-cursor-devel
